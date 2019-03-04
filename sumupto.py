@@ -14,3 +14,5 @@ ans = (n*(n + 1))/2
 
 # The above formula gives an answer (ans). Below the programme instructed to print the answer to the screen.
 print(ans)
+
+#  looked at the following websites and adapted some code from them: https://www.youtube.com/watch?v=rfscVS0vtbw, https://www.quora.com/What-is-the-sum-of-the-numbers-from-1-to-20 and https://docs.python.org/3.7/tutorial/index.html
